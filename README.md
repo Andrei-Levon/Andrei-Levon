@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C++ and Java
+- 🌱 Currently learning Javascript
 - 👯 Looking to collaborate on making video games 
 - ⚡ Filmmaker & screenwriter 
