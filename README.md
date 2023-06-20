@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌱 Currently learning Javascript
+- 🌱 Python Developer
 - 👯 Looking to collaborate on making video games 
 - ⚡ Filmmaker & screenwriter 
